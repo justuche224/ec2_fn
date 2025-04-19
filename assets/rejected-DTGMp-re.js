@@ -1,0 +1,1 @@
+import{j as o}from"./index-CGurzyVz.js";import{K as t}from"./kyc-info-CQvXTteb.js";import"./card-MN5qXuyi.js";import"./badge-BZ9A7x-u.js";import"./skeleton-CtNM2Gce.js";import"./alert-DmjX0ZRT.js";import"./accent-card-DifFmJDA.js";import"./proxy-Djgvu9BT.js";import"./circle-alert-BFwGMtuy.js";const a=function(){return o.jsx(t,{})};export{a as component};
