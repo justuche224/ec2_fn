@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-CKke61-x.js";const s=function(){return e.jsxs("div",{className:"flex flex-col items-center justify-center h-[calc(100vh-100px)] text-center text-2xl",children:["cash app coming soon use",e.jsx(t,{to:"/dashboard/withdraw",className:"text-blue-500 hover:underline italic",children:"crypto"}),"instead"]})};export{s as component};
